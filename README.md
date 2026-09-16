@@ -7,7 +7,7 @@ Navigate a turtlebot autonomously to recognize AprilTags and art pieces inside t
 
 ## Demo Video
 
-![Demo](./ROS Art Gallery.mkv)
+![Demo](./static/art_gallery_demo.gif)
 <sub>Video 1: ROS2 Art Gallery Demo (2022)</sub>
 
 ## Timestamps
