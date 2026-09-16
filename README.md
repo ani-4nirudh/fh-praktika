@@ -1,11 +1,11 @@
 # Masters Project
 This repo outlines the project created during my masters.
 
-# ROS2 Art Gallery Demo
-## Objective
+## ROS2 Art Gallery Demo
+### Objective
 Navigate a turtlebot autonomously to recognize AprilTags and art pieces inside the gallery
 
-## Demo Video
+### Demo Video
 
 ![Demo](./static/art_gallery_demo.gif)
 <sub>Video 1: ROS2 Art Gallery Demo (2022)</sub>
