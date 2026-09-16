@@ -1,4 +1,4 @@
-# Masters Project
+# Praktikum
 This repo outlines the project created during my masters.
 
 ## ROS2 Art Gallery Demo
